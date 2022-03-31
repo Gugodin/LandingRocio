@@ -616,3 +616,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#779936', end
 #footer a:hover {
 	color: #333;
 }
+
+.containerImage{
+
+	display: flex;
+	background-color: #222;
+	margin: 0px auto;
+	justify-content: center;
+	padding: 30px;
+	align-items: center;
+}
+
+#ubi{
+	color: #ddd;
+	
+}
